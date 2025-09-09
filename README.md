@@ -45,7 +45,7 @@ pip install -r requirements.txt
     ```
 
 3. **Run the notebook or script:**
-    - Open `Titanic Survival Prediction Using ML.ipynb` in Jupyter Notebook/Google Colab or click the link to view it in colab:[Click Here 👆](https://colab.research.google.com/drive/1ar74puYpggChUDWTqiyVOqr-BMaX4ACR?usp=sharing)
+    - Open `Titanic Survival Prediction Using ML.ipynb` in Jupyter/Colab or click the link to view it in colab:[Click Here 👆](https://colab.research.google.com/drive/1ar74puYpggChUDWTqiyVOqr-BMaX4ACR?usp=sharing)
     - If using the `.py` script, run: `main.py` in your IDE.
 
 ---
